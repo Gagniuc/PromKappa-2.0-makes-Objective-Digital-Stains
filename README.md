@@ -1,1 +1,1 @@
-# PromKappa-2.0-makes-Objective-Digital-Stains
+# PromKappa 2.0 makes Objective Digital Stains
