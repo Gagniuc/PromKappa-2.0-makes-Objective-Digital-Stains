@@ -11,7 +11,7 @@ The compiled version of PromKappa (PromKappa.exe) will ask for a dependency file
 - MSCOMCTL.OCX
 - COMDLG32.OCX
 
-However, if you install Visual Basic 6.0 from the Visual Studio 6.0 package, then all dependency files will be present on your system.
+However, if you install Visual Basic 6.0 from the Visual Studio 6.0 package, then all dependency files will be present on your system anyway.
 
 # Implementations - other
 The Objective Digital Stains are also implemented in two scripting languages, from which an entire customised application can be made.
