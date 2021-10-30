@@ -3,7 +3,15 @@ PromKappa 2.0 is a complete application made in Visual Basic 6.0 (VB6) that gene
 
 ![screenshot](https://github.com/Gagniuc/PromKappa-2.0-makes-Objective-Digital-Stains/blob/main/img/Objective%20Digital%20Stains%20-%20aka%20DNA%20patterns%20(1).gif)
 
-The compiled version of PromKappa (PromKappa.exe) will ask for a dependency file called 'msvbvm60.dll', however, if you install Visual Basic 6.0 from the Visual Studio 6.0 package, then all dependency files will be present on your system.
+The compiled version of PromKappa (PromKappa.exe) will ask for a dependency file called "msvbvm60.dll" and possibly other dependency files. These files are present in the 'bin' folder. The following files are a complete set of dependencies that a regular VB6 app may require:
+
+- msvbvm60.DLL
+- VBA6.DLL
+- shlwapi.dll
+- MSCOMCTL.OCX
+- COMDLG32.OCX
+
+However, if you install Visual Basic 6.0 from the Visual Studio 6.0 package, then all dependency files will be present on your system.
 
 # Implementations - other
 The Objective Digital Stains are also implemented in two scripting languages, from which an entire customised application can be made.
