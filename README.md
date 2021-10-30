@@ -30,6 +30,8 @@ https://github.com/Gagniuc/Objective-Digital-Stains-in-PHP
  
 # Screenshot
 
+![screenshot](https://github.com/Gagniuc/PromKappa-2.0-makes-Objective-Digital-Stains/blob/main/img/Objective%20Digital%20Stains%20-%20aka%20DNA%20patterns%20(1).gif)
+
 ![screenshot](https://github.com/Gagniuc/PromKappa-2.0-makes-Objective-Digital-Stains/blob/main/img/PromKappa%202.0%20Objective%20Digital%20Stain%20(1).PNG)
 
 ![screenshot](https://github.com/Gagniuc/PromKappa-2.0-makes-Objective-Digital-Stains/blob/main/img/PromKappa%202.0%20Objective%20Digital%20Stain%20(2).PNG)
