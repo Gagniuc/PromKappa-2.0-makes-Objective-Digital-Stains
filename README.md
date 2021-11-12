@@ -34,7 +34,6 @@ Eukaryotic genomes may exhibit up to 10 generic classes of gene promoters:
  ```
  <kbd>https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-278</kbd>
  
- 
  ```
  Algorithms in Bioinformatics: Theory and Implementation:
  ```
