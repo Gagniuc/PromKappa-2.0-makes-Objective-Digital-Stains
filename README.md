@@ -5,11 +5,11 @@ PromKappa 2.0 is a complete application made in Visual Basic 6.0 (VB6) that gene
 
 The compiled version of PromKappa (PromKappa.exe) will ask for a dependency file called "msvbvm60.dll" and possibly other dependency files. These files are present in the 'bin' folder. The following files are a complete set of dependencies that a regular VB6 app may require:
 
-- msvbvm60.DLL
-- VBA6.DLL
-- shlwapi.dll
-- MSCOMCTL.OCX
-- COMDLG32.OCX
+- <kbd>msvbvm60.DLL</kbd>
+- <kbd>VBA6.DLL</kbd>
+- <kbd>shlwapi.dll</kbd>
+- <kbd>MSCOMCTL.OCX</kbd>
+- <kbd>COMDLG32.OCX</kbd>
 
 However, if you install Visual Basic 6.0 from the Visual Studio 6.0 package, then all dependency files will be present on your system anyway.
 
